@@ -11,6 +11,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-hotpink.svg?style=flat&logo=BOOTSTRAP&logoColor=white)
+![REACT](https://img.shields.io/badge/react-%23007ACC.svg?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
