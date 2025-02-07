@@ -1,4 +1,7 @@
 # 💫 About Me:
+<div align="right">
+  <img src="https://profile-counter.glitch.me/iamperii/count.svg?"  />
+</div>
 🔭 I’m currently working on building my portfolio with various frontend projects...<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about frontend development, React, building a responsive website, or learning algorithms and data structures.
 
 
@@ -70,8 +73,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iamperii/count.svg?"  />
-</div>
+
 
 ###
