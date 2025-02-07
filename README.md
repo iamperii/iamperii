@@ -1,4 +1,4 @@
-# 💫 About Me: <div align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=iamperii.iamperii&right_color=lightblue"  /></div>
+# 💫 About Me: <div align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=iamperii.iamperii&right_color=greenforest"  /></div>
 🔭 I’m currently working on building my portfolio with various frontend projects...<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about frontend development, React, building a responsive website, or learning algorithms and data structures.
 
 
