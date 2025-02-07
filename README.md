@@ -48,9 +48,7 @@
 </div>
 
 
-### 🔝 Top Contributed Repo
+#🔝 Top Contributed Repo
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-contributor-stats.vercel.app/api?username=iamperii&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="contributed repo stats" />
 </div>
-
-<img src="https://raw.githubusercontent.com/iamperii/iamperii/output/snake.svg" alt="Snake animation" />
