@@ -24,6 +24,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
+## **Security:**
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat&logo=json-web-tokens&logoColor=white)  
+![CORS](https://img.shields.io/badge/CORS-%23000000.svg?style=flat&logo=cors&logoColor=white)
+
 ## **Tools & Platforms:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)  
