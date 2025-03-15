@@ -1,0 +1,21 @@
+name: WakaTime Activity Update
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Hər saatda bir dəfə yeniləyəcək
+  workflow_dispatch:  # Manual olaraq da işə sala bilərsən
+
+jobs:
+  update-wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          COMMIT_MESSAGE: "Updated WakaTime stats"
+          TIME_RANGE: all_time  # 7_days, 30_days və ya all_time seçə bilərsən
