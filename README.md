@@ -20,9 +20,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamperii&theme=dark&hide_border=false" alt="streak stats" />
   </div>
 </div>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamperii&layout=compact)
-  </div>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamperii&layout=compact" alt="Wakatime Stats"/>
+  </p>
+
 </div>
 
 
