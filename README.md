@@ -22,6 +22,8 @@
 </div>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iamperii&layout=compact" alt="Wakatime Stats"/>
+  <img src="https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg?style=social" alt="Wakatime Stats"/>
+  <img src="https://wakatime.com/@iamperii" alt="Wakatime Stats"/>
   </p>
 
 </div>
