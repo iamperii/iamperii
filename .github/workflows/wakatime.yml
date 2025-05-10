@@ -2,8 +2,8 @@ name: WakaTime Activity Update
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Hər saatda bir dəfə yeniləyəcək
-  workflow_dispatch:  # Manual olaraq da işə sala bilərsən
+    - cron: "0 * * * *" 
+  workflow_dispatch:  
 
 jobs:
   update-wakatime:
