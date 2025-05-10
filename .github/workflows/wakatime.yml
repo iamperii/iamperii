@@ -18,4 +18,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           COMMIT_MESSAGE: "Updated WakaTime stats"
-          TIME_RANGE: all_time  # 7_days, 30_days və ya all_time seçə bilərsən
+          TIME_RANGE: all_time  
