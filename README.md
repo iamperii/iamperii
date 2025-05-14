@@ -12,8 +12,10 @@
  </div>
 
 ## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perimemmedova/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:memmedovaperiii@gmail.com)
+<div align="center" gap="10">
+ <a href="https://www.linkedin.com/in/perimemmedova/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+<a href="matilto:memmedovaperiii@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/new-post.png"></a>
+</div>
 
 # 💻 Tech Stack:
 
