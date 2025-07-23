@@ -14,7 +14,7 @@
 ## 🌐 Socials
 <div align="center" gap="10">
  <a href="https://www.linkedin.com/in/perimemmedova/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-<a href="matilto:memmedovaperiii@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/new-post.png"></a>
+<a href="mailto:memmedovaperiii@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/new-post.png"></a>
 </div>
 
 # 💻 Tech Stack
