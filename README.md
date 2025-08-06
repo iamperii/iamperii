@@ -77,12 +77,10 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamperii&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamperii&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamperii&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamperii&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamperii&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamperii&theme=github_dark&utcOffset=8) <br>
+![Peri Memmedova's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iamperii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2)
 
-![Peri Memmedova's Github Stats](https://github-readme-stats.vercel.app/api?username=iamperii&hide=false)
-![Peri Memmedova's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iamperii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=true&order=2)
+![](https://github-readme-stats.vercel.app/api?username=iamperii&hide=false&theme=github_dark)<br>
 ![Peri Memmedova's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamperii&theme=white&hide_border=true)
 ![Peri Memmedova's Github Stats](https://github-profile-trophy.vercel.app?username=iamperii&theme=white&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
 
