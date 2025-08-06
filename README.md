@@ -22,7 +22,7 @@
 <a href="mailto:memmedovaperiii@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/new-post.png"></a>
 </div>
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack
+# <img src="./assets/techstack.gif" width="35"> Tech Stack
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
 
@@ -66,19 +66,25 @@
   </div>
 
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl4bzZ2b2Qya3l6eWdyd3Rla3o5cmViM3R2d2g3MHFheXUzb2VyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Unicorn" width="300px"/>
+    <img src="./assets/coding.gif" alt="Unicorn" width="300px"/>
   </div>
 
 </div>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" align='center' width="35"> Stats
+# <img src="./assets/stats.gif" align='center' width="35"> Stats
 
 <div align="center" style="width: 100vw; display: flex; flex-direction:column; justify-content: center; align-items: center; gap: 10px;">
   
-   ![Peri Memmedova's Github Stats](https://github-readme-stats.vercel.app/api?username=iamperii&hide=false)
-   ![Peri Memmedova's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iamperii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=true&order=2)
-   ![Peri Memmedova's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamperii&theme=white&hide_border=true)
-   ![Peri Memmedova's Github Stats](https://github-profile-trophy.vercel.app?username=iamperii&theme=white&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamperii&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamperii&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamperii&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamperii&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamperii&theme=github_dark)
+
+![Peri Memmedova's Github Stats](https://github-readme-stats.vercel.app/api?username=iamperii&hide=false)
+![Peri Memmedova's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=iamperii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=true&order=2)
+![Peri Memmedova's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamperii&theme=white&hide_border=true)
+![Peri Memmedova's Github Stats](https://github-profile-trophy.vercel.app?username=iamperii&theme=white&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4)
 
 <div style="text-align: center;">
     <img src="https://wakatime.com/share/@iamperii/a1dd0276-8a97-4888-9cd9-eee46eb6c920.svg" alt="WakaTime Stats 1" style="width: 100%">
@@ -87,6 +93,6 @@
 
 </div>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Top Contributed Repo
+# <img src="./assets/top.gif" width ="30"> Top Contributed Repo
 
 ![Peri Memmedova's Github Stats](https://github-contributor-stats.vercel.app/api?username=iamperii&limit=5&theme=white&combine_all_yearly_contributions=true)
