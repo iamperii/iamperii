@@ -1,7 +1,9 @@
  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" style="margin-bottom:10px"/>
  <div align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=iamperii.iamperii&right_color=darkgreen" /> <img src="https://wakatime.com/badge/user/2a7349ab-e019-46e5-8945-eac4dd9a703f.svg" alt="wakatime"></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=500&color=00F73C95&center=true&vCenter=true&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=500&color=00F73C95&center=true&vCenter=true&width=435&lines=Front-end+Developer" alt="Typing SVG" />
+</p>
 
 # 🐧About Me
 
@@ -21,8 +23,6 @@
 </div>
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack
-
-# 💻 Tech Stack
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
 
