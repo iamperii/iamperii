@@ -94,3 +94,8 @@
 # <img src="./assets/top.gif" width ="30"> Top Contributed Repo
 
 ![Peri Memmedova's Github Stats](https://github-contributor-stats.vercel.app/api?username=iamperii&limit=5&theme=white&combine_all_yearly_contributions=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamperii/iamperii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamperii/iamperii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamperii/iamperii/output/github-contribution-grid-snake.svg">
+</picture>
