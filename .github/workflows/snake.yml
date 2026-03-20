@@ -16,7 +16,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: iamperii
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
